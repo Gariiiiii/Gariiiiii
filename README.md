@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Web Development<br>👯 I’m looking to collaborate on projects.<br>🤝 I’m looking for help with frontend frameworks & libraries.<br>🌱 I’m currently learning advanced JS.<br>💬 Ask me about anything related to frontend
+🔭 I’m currently working on Frontend Web Development<br>👯 I’m looking to collaborate on projects.<br>🤝 I’m looking for help with frontend frameworks & libraries.<br>🌱 I’m currently learning advanced React.<br>💬 Ask me about anything related to frontend
 
 
 # 💻 Tech Stack:
